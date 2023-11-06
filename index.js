@@ -1,4 +1,10 @@
-const person = require('./person')
+const Person = require('./person')
 
 
-console.log(person.name, person.age);
+const person1 = new Person("John Doe", 30)
+
+person1.greeting();
+
+const person2 = new Person("luciano", 37)
+
+person2.greeting();
