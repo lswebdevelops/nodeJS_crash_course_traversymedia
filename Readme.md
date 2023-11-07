@@ -8,3 +8,10 @@ Watch Next: Express Crash Course:
  • Express JS Crash Course  
 
 Sponsor: DevMountain Bootcamp
+
+
+documentation 
+https://nodejs.org/dist/latest-v21.x/docs/api/path.html
+
+file system method 
+https://nodejs.org/dist/latest-v21.x/docs/api/fs.html
